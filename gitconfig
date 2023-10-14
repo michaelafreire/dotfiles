@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = michaela.freiregriffith@gmail.com
+	name = Michaela Freire
